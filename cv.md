@@ -15,7 +15,7 @@ I have an experience in front-end as fullstack developer.
 * HTML, Pug, CSS, Less, Sass, Gulp, JavaScript, jQuery, Bootstrap 4, Git, React;
 * responsive, cross-browser layout;
 * installation and configuration of CMS WordPress and WooCommerce;
-* Figma and Adobe Photoshop.
+* graphics editors: Figma, Adobe Photoshop.
 
 ## Work experience
 **April, 2019 - current time** - Advertising agency [Smart People](https://spp.uz/) , Tashkent, Uzbekiistan -  Website development, maintenance & support
