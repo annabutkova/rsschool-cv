@@ -18,7 +18,7 @@ I have an experience in front-end as fullstack developer.
 * graphics editors: Figma, Adobe Photoshop.
 
 ## Work experience
-**April, 2019 - current time** - Advertising agency [Smart People](https://spp.uz/) , Tashkent, Uzbekiistan -  Website development, maintenance & support
+**April, 2019 - current time** - Advertising agency [Smart People](https://spp.uz/), Tashkent, Uzbekistan -  Website development, maintenance & support
 
 ## My completed projects
 * [mediana.uz](https://mediana.uz/)
