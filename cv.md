@@ -29,7 +29,7 @@ I have an experience in front-end as fullstack developer.
 ## Education
 **September, 2014 - September 2018** - [Northern (Arctic) Federal University named after M.V. Lomonosov](https://narfu.ru/), Archangelsk, Russia
 Bachelor’s degree in Business informatics
-<addr>
+
 **August, 2018 - April, 2019** - Web developer course at [PROWEB](https://proweb.uz/), Tashkent, Uzbekistan
 
 ## Language skills
