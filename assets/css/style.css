@@ -8,20 +8,17 @@ a {
     text-decoration: none;
     color: #111;
 }
-a,
-a:hover {
-    transition: color 0.5s ease-out 0.5s;
-}
+
 a:hover {
     text-decoration: underline;
 }
 a:active,
 a:focus,
 a:hover {
-    color: #861657;
+    color: #000;
 }
 a:visited {
-    color: blue;
+    color: #861657;
 }
 body {
     color: #111;
