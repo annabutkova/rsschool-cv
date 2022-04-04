@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,4GAAY,AAEZ,GACI,eAAe,AACf,eAAiB,CAAA","file":"style.css","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400&display=swap');\r\n\r\nh1 {\r\n    font-size: 48px;\r\n    font-weight: bold;\r\n}"]}
